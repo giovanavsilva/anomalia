@@ -1,2 +1,2 @@
 # Anomalia
-Aplicação de Aprendizado de Máquina para Detecção de Anomalias
+Aplicação de Aprendizado de Máquina Não Supervisionado para Detecção de Anomalias
